@@ -23,7 +23,7 @@ En esta entrega implementé tres mejoras: centrado por centro de masa, que ender
 
 El trabajo va de 2 documentos
 
-[reporte html](A3_2_652911.html)
+[reporte html](IA3_2_652911.html)
 
-[reporte ipynb](A3_2_652911.ipynb)
+[reporte ipynb](IA3_2_652911.ipynb)
 
